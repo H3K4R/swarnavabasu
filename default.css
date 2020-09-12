@@ -431,5 +431,26 @@ h6 { font-size: 16px;}
 
 }
 
+.icon{
+	text-align: center;
+	justify-content: center;
+}
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.footer{
+	text-align: center;
+	justify-content: center;
+}
 
