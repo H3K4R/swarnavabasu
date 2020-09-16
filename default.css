@@ -454,3 +454,14 @@ h6 { font-size: 16px;}
 	justify-content: center;
 }
 
+
+.button1 {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  border: 1px solid #054080; 
+}
+.button1:hover {
+  background-color: #2887ed; 
+  color: white;
+}
